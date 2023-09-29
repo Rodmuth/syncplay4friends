@@ -1,0 +1,5 @@
+version = '1.7.1'
+revision = ' release candidate 1'
+milestone = 'Yoitsu'
+release_number = '108'
+projectURL = 'https://syncplay.pl/'
